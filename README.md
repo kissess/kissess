@@ -23,9 +23,11 @@
 
 - Python
 - C
+- C++
 - Java
 - machine learning
 - deep learning basic
+- imageprocessing and deep learnig
 - Operating system
 
 ---
